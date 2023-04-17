@@ -1,0 +1,4 @@
+*.log
+logs/*.log
+!logs/sample.log
+.DS_Store
